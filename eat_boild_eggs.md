@@ -1,6 +1,8 @@
 ```mermaid
 flowchart TB
+    subgraph 目的
     first[茹で卵を食べる]
+    end
     subgraph 大まかな計画
     second1[卵を買う]
     second2[茹で卵を作る]
